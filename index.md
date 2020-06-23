@@ -1,6 +1,6 @@
 ## Welcome to Vera's Blog❀❀❀
 
-You can use the [editor on GitHub](https://github.com/VeraYangJialei/verayang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Only vera can use the [EDITOR](https://github.com/VeraYangJialei/verayang.github.io/edit/master/index.md) to maintain and preview the content for this website. Please don't press this if you are not Vera. Thank you.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
