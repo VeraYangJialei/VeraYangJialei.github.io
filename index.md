@@ -1,8 +1,9 @@
 ## Welcome to Vera's Blog❀❀❀
 
-Only vera can use the [EDITOR](https://github.com/VeraYangJialei/verayang.github.io/edit/master/index.md) to maintain and preview the content for this website. Please don't press this if you are not Vera. Thank you.
+Only vera can use the [EDITOR](https://github.com/VeraYangJialei/verayang.github.io/edit/master/index.md) to maintain and preview the content for this website. Please don't press this if you are not Vera. Thank you. But you can still give it a try to see if you can log in my account. 2333
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you also want to see vera's vlog, you can check it out by pressing this [Vera's Bilibili Space](https://space.bilibili.com/42469907/) 
+
 
 ### Markdown
 
